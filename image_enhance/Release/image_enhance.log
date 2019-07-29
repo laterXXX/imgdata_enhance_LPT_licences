@@ -1,0 +1,26 @@
+﻿  m.cpp
+d:\opensource\sclead\opencv\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+h:\projects\image_enhance\image_enhance\m.cpp(94): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(96): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(141): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(142): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(144): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(145): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(146): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(168): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(169): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(200): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(201): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(202): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(205): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(206): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(207): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(208): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(335): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 372 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  image_enhance.vcxproj -> H:\projects\image_enhance\Release\image_enhance.exe

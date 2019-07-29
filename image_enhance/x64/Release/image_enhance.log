@@ -1,0 +1,23 @@
+﻿  get_files.cpp
+  m.cpp
+d:\opensource\sclead\opencv\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+h:\projects\image_enhance\image_enhance\m.cpp(73): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(75): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(95): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(102): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(103): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(104): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(122): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(123): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(154): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(155): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(159): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(160): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(161): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(162): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\projects\image_enhance\image_enhance\m.cpp(240): warning C4305: “参数”: 从“double”到“float”截断
+h:\projects\image_enhance\image_enhance\m.cpp(242): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+opencv_core320.lib(opencv_core320.dll) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
