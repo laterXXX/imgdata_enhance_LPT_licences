@@ -1,1 +1,3 @@
 get more data through scale ...
+
+use vs opencv c++
